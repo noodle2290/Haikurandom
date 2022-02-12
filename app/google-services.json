@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193781539493",
+    "project_id": "haikurandom-d926d",
+    "storage_bucket": "haikurandom-d926d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193781539493:android:0c048211b1366a3097234c",
+        "android_client_info": {
+          "package_name": "com.example.haikurandom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193781539493-p6sragr5cv1du2ejrfr92s9j40rn9kso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTSAF3Ysa74KXibedALxevlukrSV7Ubs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193781539493-p6sragr5cv1du2ejrfr92s9j40rn9kso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
